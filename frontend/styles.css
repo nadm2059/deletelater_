@@ -1,0 +1,75 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #e0eafc, #cfdef3);
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+    color: #333;
+}
+
+.hidden {
+    display: none;
+}
+
+#app {
+    background: #fff;
+    border-radius: 15px;
+    padding: 40px 30px;
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease;
+}
+
+#app:hover {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+button {
+    padding: 12px 25px;
+    margin: 20px 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #4a90e2;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #357ab8;
+}
+
+#answers button {
+    display: block;
+    margin: 10px auto;
+    width: 85%;
+    background-color: #6c63ff;
+}
+
+#answers button:hover {
+    background-color: #534dca;
+}
+
+#timer {
+    font-size: 28px;
+    font-weight: bold;
+    color: #e63946;
+    margin-top: 20px;
+}
+
+h1, h2, h3 {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 80%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}

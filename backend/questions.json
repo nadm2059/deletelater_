@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which survivor in Left 4 Dead sacrificed themself to save the other survivors?",
+    "options": [
+      "Francis",
+      "Zoey",
+      "Bill",
+      "Louis"
+    ],
+    "answer": "Bill"
+  },
+  {
+    "question": "What type of function is x&sup2;+2x+1?",
+    "options": [
+      "Exponential",
+      "Rational",
+      "Linear",
+      "Quadratic"
+    ],
+    "answer": "Quadratic"
+  },
+  {
+    "question": "Where would you find the &quot;Spanish Steps&quot;?",
+    "options": [
+      "Rome, Italy",
+      "London, England",
+      "Berlin, Germany",
+      "Barcelona, Spain"
+    ],
+    "answer": "Rome, Italy"
+  },
+  {
+    "question": "Which of these is NOT a song by Pegboard Nerds?",
+    "options": [
+      "BAMF",
+      "Swamp Thing",
+      "WiFi Tears",
+      "Emoji"
+    ],
+    "answer": "WiFi Tears"
+  },
+  {
+    "question": "In Game of Thrones, what continent lies across the Narrow Sea from Westeros?",
+    "options": [
+      "Easteros",
+      "Westereast",
+      "Esuntos",
+      "Essos"
+    ],
+    "answer": "Essos"
+  }
+]
